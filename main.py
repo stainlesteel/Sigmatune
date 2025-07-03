@@ -240,9 +240,6 @@ def ui():
     stop.pack(pady=10)        
     paus = ttk.Button(root, text="Pause", command=pause)
     paus.pack()
-    
-
-    root.after(100, upd)
 
 
 mbar = t.Menu(root)
