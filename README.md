@@ -5,6 +5,7 @@ A python music player with bugs.
 
 ## Known Bugs
 - The progress bar (first scale widget) only works in seeking the current   music, it does not switch or move after a new song.
+- Probably some widget recognition errors when opening a folder or after.
 # Run (GNU/Linux)
 1. Download the .py
 2. In a terminal,
