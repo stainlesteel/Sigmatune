@@ -1,5 +1,6 @@
 # Sigmatune
 A python music player with bugs.
+
 ![sigmatune](sigmatune.png "Sigmatune")
 
 ## Known Bugs
